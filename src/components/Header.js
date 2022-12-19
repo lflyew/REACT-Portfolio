@@ -5,7 +5,7 @@ function Header() {
     return (
         <div className="header">
          {/* nav links */}
-      <nav class="nav">
+      <nav className="nav">
       <h1> Latoya Lyew </h1>
       <a href="#about" className={activeLink == '#about' ? 'active-link' : ''} onClick={() => setActiveLink('#about')}>About Me</a>
       <a href="#portfolio" className={activeLink == '#portfolio' ? 'active-link' : ''} onClick={() => setActiveLink('#portfolio')}>Portofolio</a>
