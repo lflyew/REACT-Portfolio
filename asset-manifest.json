@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/toya-portfolio/static/css/main.1d39dab3.css",
-    "main.js": "/toya-portfolio/static/js/main.c96b5aec.js",
-    "static/js/787.e72f4999.chunk.js": "/toya-portfolio/static/js/787.e72f4999.chunk.js",
-    "static/media/dinner.png": "/toya-portfolio/static/media/dinner.4aa8ceabf9d1bdc96766.png",
-    "static/media/logo.jpeg": "/toya-portfolio/static/media/logo.36dbdcde4b93285ab4f6.jpeg",
-    "static/media/polished.png": "/toya-portfolio/static/media/polished.5c6cf8ce5c5b7fe4affb.png",
-    "static/media/Image-2.JPG": "/toya-portfolio/static/media/Image-2.740bdca1edc811bbb5e8.JPG",
-    "index.html": "/toya-portfolio/index.html",
-    "main.1d39dab3.css.map": "/toya-portfolio/static/css/main.1d39dab3.css.map",
-    "main.c96b5aec.js.map": "/toya-portfolio/static/js/main.c96b5aec.js.map",
-    "787.e72f4999.chunk.js.map": "/toya-portfolio/static/js/787.e72f4999.chunk.js.map"
+    "main.css": "/REACT-Portfolio/static/css/main.1d39dab3.css",
+    "main.js": "/REACT-Portfolio/static/js/main.ff1e2621.js",
+    "static/js/787.e72f4999.chunk.js": "/REACT-Portfolio/static/js/787.e72f4999.chunk.js",
+    "static/media/dinner.png": "/REACT-Portfolio/static/media/dinner.4aa8ceabf9d1bdc96766.png",
+    "static/media/logo.jpeg": "/REACT-Portfolio/static/media/logo.36dbdcde4b93285ab4f6.jpeg",
+    "static/media/polished.png": "/REACT-Portfolio/static/media/polished.5c6cf8ce5c5b7fe4affb.png",
+    "static/media/Image-2.JPG": "/REACT-Portfolio/static/media/Image-2.740bdca1edc811bbb5e8.JPG",
+    "index.html": "/REACT-Portfolio/index.html",
+    "main.1d39dab3.css.map": "/REACT-Portfolio/static/css/main.1d39dab3.css.map",
+    "main.ff1e2621.js.map": "/REACT-Portfolio/static/js/main.ff1e2621.js.map",
+    "787.e72f4999.chunk.js.map": "/REACT-Portfolio/static/js/787.e72f4999.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d39dab3.css",
-    "static/js/main.c96b5aec.js"
+    "static/js/main.ff1e2621.js"
   ]
 }
