@@ -2,7 +2,7 @@
   "name": "toya-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lflyew.github.io/toya-portfolio",
+  "homepage": "https://lflyew.github.io/REACT-Portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
