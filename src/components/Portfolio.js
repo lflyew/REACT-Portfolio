@@ -1,5 +1,8 @@
 import React from 'react'
 import logo from '../images/logo.jpeg'
+import soon from '../images/soon.jpeg'
+import polished from '../images/polished.png'
+import dinner from '../images/dinner.png'
 
 function Portfolio() {
     return (
@@ -10,6 +13,7 @@ function Portfolio() {
       <span> Projects </span>
       <br />
       <br />
+      <div className='porto-container'>
       <div className="porto-item">
           <img src={logo} width="100%" />
           <h3>Flock Together</h3>
@@ -18,9 +22,9 @@ function Portfolio() {
             <button className='button'>See More</button>
           </a>
 </div>
-      <div className='porto-container'>
+      {/* <div className='porto-container'> */}
         <div className="porto-item">
-        <img src= "" width="100%" />
+        <img src= { polished } width="100%" />
         <h3>Polished</h3>
         <p> Polished is a Nail Salon Booking Application. It allows users to create an account and book a service at nail salon!</p>
         {/* <h3>Polished</h3> */}
@@ -29,7 +33,7 @@ function Portfolio() {
           </a>
           </div>
         <div className="porto-item">
-        <img src="" width="100%" />
+        <img src={ dinner } width="100%" />
         <h3> What's For Dinner</h3>
         <p> An application designed to help busy individuals find quick and easy recipes and be able to shop for items!</p>
         <a href="https://verzo361219.github.io/Whats-For-Dinner/">
@@ -37,17 +41,17 @@ function Portfolio() {
           </a>
           </div>
         <div className="porto-item">
-            <img src ="" width="100%" />
+            <img src ={ soon } width="100%" />
             <h3>Coming Soon</h3>
             <p> Coming Soon</p>
             </div>
         <div className="porto-item">
-            <img src ="" width="100%" />
+            <img src ={ soon } width="100%" />
             <h3>Coming Soon</h3>
             <p> Coming Soon</p>
             </div>
         <div className="porto-item">
-            <img src ="" width="100%" />
+            <img src ={ soon } width="100%" />
             <h3>Coming Soon</h3>
             <p> Coming Soon</p>
 
