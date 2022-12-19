@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,93 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+
+.active-link {
+  color: aliceblue !important;
+  background: rgb(105, 141, 105);
 }
+
+.about {
+  display: flex;
+}
+
+.about-item {
+  flex: 1;
+  margin-right: 100px;
+}
+
+.about-item-2 {
+  flex: 2;
+  text-align: start;
+}
+
+.porto {
+  text-align: center;
+}
+
+.porto-section {
+  background-color: #cbcde2;
+}
+
+.footer-section a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+}
+
+.footer-section {
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 100%;
+  justify-content: space-around;
+  display: flex;
+  background: #62c7a4;
+}
+
+.contact-container input {
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.contact-container button {
+  width: 100%;
+}
+
+.button {
+  padding: 12px;
+  background: #50bde9;
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+}
+
+.porto-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.porto-item {
+  width: 25%;
+  padding: 25px;
+  margin: 15px;
+  background: aliceblue;
+  border-radius: 10px;
+}
+
+.resume-container {
+  margin: 0 auto;
+  width: 40%;
+  background-color: #bbe1eb;
+  padding: 40px 20px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
