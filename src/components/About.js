@@ -8,7 +8,7 @@ function About() {
           <br /><br />
           <div className='about'>
             <div className='about-item'>
-              <img width='100%' src="https://rgonsahn.github.io/robina-week-2-challenge/IMG_0920_Me-too.jpg" alt="" />
+              <img width='100%' src="https://github.com/lflyew/Professional-Portfolio/blob/main/assets/images/Image-2.JPG" alt="photo" />
             </div>
             <div className='about-item-2'>
                 <h2> Latoya Lyew</h2>
