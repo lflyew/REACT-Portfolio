@@ -1,5 +1,4 @@
 # REACT-Portfolio
-# Tech-Blog
 
 ## description
 
